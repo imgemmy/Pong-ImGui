@@ -1,4 +1,4 @@
-# Pong Imgui
+# Pong ImGui
 
 Simple pong interpolation (from stratch) rendered with [ImGui](https://github.com/ocornut/imgui)
 
